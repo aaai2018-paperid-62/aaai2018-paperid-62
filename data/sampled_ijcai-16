@@ -1,0 +1,100 @@
+A Generative Model for Recognizing Mixed Group Activities in Still Images	Zheng Zhou, Kan Li, Xiangjian He and Mengmeng Li
+Proving the Incompatibility of Efficiency and Strategyproofness via SMT Solving	Florian Brandl, Felix Brandt and Christian Geist
+Efficiently Finding Conceptual Clustering Models with Integer Linear Programming	Abdelkader Ouali, Samir Loudni, Yahia Lebbah, Patrice Boizumault, Albrecht Zimmermann and Lakhdar Loukil
+Natural Supervised Hashing	Qi Liu and Hongtao Lu
+Learning Compact Visual Representation with Canonical Views for Robust Mobile Landmark Search	Lei Zhu, Jialie Shen, Xiaobai Liu and Liang Xie
+Dynamic Task Allocation Algorithm for Hiring Workers that Learn	Shengying Pan, Kate Larson, Josh Bradshaw and Edith Law
+A Unifying Framework for Learning Bag Labels from Generalized Multiple-Instance Data	Gary Doran, Andrew Latham and Soumya Ray
+Multi-grained Role Labeling Based on Multi-modality Information for Real Customer Service Telephone Conversation	Weizhi Ma, Min Zhang, Yiqun Liu and Shaoping Ma
+Change Detection using Directional Statistics	Tsuyoshi Ide, Dzung Phan and Jayant Kalagnanam
+Modeling contagious M&A via point processes with a profile regression prior	Shuai Xiao, Junchi Yan, Changsheng Li, Bo Jin, Xiangfeng Wang, Hongyuan Zha and Xiaokang Yang
+Recurrent Neural Network for Text Classification with Multi-Task Learning	Pengfei Liu, Xipeng Qiu and Xuanjing Huang
+Nash equilibria and their elimination in resource games	Nicolas Troquard
+Constructive Preference Elicitation by Setwise Max-margin Learning	Stefano Teso, Andrea Passerini and Paolo Viappiani
+Canonical Orderings on Grids	Nathan Sturtevant and Steve Rabin
+External Memory Bidirectional Search	Nathan Sturtevant and Jingwei Chen
+On modeling and predicting individual paper citation count over time	Shuai Xiao, Junchi Yan, Changsheng Li, Bo Jin, Xiangfeng Wang, Hongyuan Zha and Xiaokang Yang
+On the impact of modal depth in epistemic planning	Tristan Charrier, Bastien Maubert and Francois Schwarzentruber
+Heuristics and Really Hard Instances for Subgraph Isomorphism Problems	Ciaran McCreesh, James Trimble and Patrick Prosser
+Saliency Transfer: An Example-Based Method for Salient Object Detection	Xin Li, Fan Yang, Leiting Chen and Hongbin Cai
+Complexity of Manipulation with Partial Information	Palash Dey, Neeldhara Misra and Narahari Yadati
+Social Choice for Agents with General Utilities	Hongyao Ma, Reshef Meir and David C. Parkes
+Learning First-Order Logic Embeddings via Graph Rewriting	William Yang Wang and William Cohen
+On the Representation and Embedding of Knowledge Bases Beyond Binary Relations	Jianfeng Wen, Jianxin Li, Yongyi Mao, Shini Chen and Richong Zhang
+Improved Heuristic and Tie-Breaking for Optimally Solving Sokoban	André Grahl Pereira, Robert Holte, Jonathan Schaeffer, Luciana Salete Buriol and Marcus Ritt
+HIEDS: A Generic and Efficient Approach to Hierarchical Dataset Summarization	Gong Cheng, Cheng Jin and Yuzhong Qu
+Plan Recognition as Planning Revisited	Shirin Sohrabi, Anton Riabov and Octavian Udrea
+Fast Robust Non-negative Matrix Factorization for Large Scale Data Clustering	De Wang, Feiping Nie and Heng Huang
+DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks	Jie Fu, Hongyin Luo, Jiashi Feng, Kian Hsiang Low and Tat-Seng Chua
+Efficient Collaborative Filtering with Side Information	Feipeng Zhao and Yuhong Guo
+Learning Possibilistic Logic Theories from Default Rules	Ondřej Kuželka, Jesse Davis and Steven Schockaert
+Urban Water Quality Prediction based on Multi-task Multi-view Learning	Ye Liu, Yu Zheng, Yuxuan Liang, Shuming Liu and David Rosenblum
+Derivative-Free Optimization of High-Dimensional Non-Convex Functions by Sequential Random Embeddings	Hong Qian, Yi-Qi Hu and Yang Yu
+Theoretically-Grounded Policy Advice from Multiple Teachers in Reinforcement Learning Settings with Applications to Negative Transfer	Yusen Zhan, Haitham Bou Ammar and Matthew Taylor
+Completion of Disjunctive Logic Programs	Mario Alviano and Carmine Dodaro
+Chinese Song Iambics Generation with Neural Attention-based Model	Qixin Wang, Tianyi Luo, Dong Wang and Chao Xing
+Neural Enquirer: Learning to Query Tables in Natural Language	Pengcheng Yin, Zhengdong Lu, Hang Li and Ben Kao
+Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN	Shengxian Wan, Yanyan Lan, Jun Xu, Jiafeng Guo and Xueqi Cheng
+On Logics of Strategic Ability based on Propositional Control	Francesco Belardinelli and Andreas Herzig
+Robust Out-of-Sample Data Representation	Bo Jiang, Chris Ding and Bin Luo
+Distributed Breakout: Beyond Satisfaction	Steven Okamoto, Roie Zivan and Aviv Nahon
+Partially Supervised Graph Embedding for Positive Unlabelled Feature Selection	Yufei Han and Yun Shen
+Rule-Based Programming of Molecular Robot Swarms for Biomedical Applications	Inbal Wiesel, Gal A. Kaminka, Noa Agmon, Ido Bachelet and Guy Hachmon
+Clustering-based Joint Feature Selection for Semantic Attribute Prediction	Lin Chen and Baoxin Li
+Constraint Answer Set Programming versus Satisfiability Modulo Theories Or Constraints versus Theories	Yuliya Lierler and Benjamin Susman
+Sparsity Conditional Energy Label Distribution Learning for Age Estimation	Xu Yang, Xin Geng and De-Yu Zhou
+Scene Text Detection in Video by Learning Locally and Globally	Wei-Yi Pei, Shu Tian and Xu-Cheng Yin
+$\exists$-STRIPS: Existential Quantification in Planning and Constraint Satisfaction	Guillem Francès and Hector Geffner
+Optimizing Molecular Cloning Of Multiple Plasmids	Thierry Petit and Lolita Petit
+PAC Greedy Maximisation with Efficient Bounds on Information Gain for Sensor Selection.	Yash Satsangi, Shimon Whiteson and Frans Oliehoek
+Version space reduction based on ensembles of dissimilar balanced Perceptrons	Karen Braga Enes, Saulo Moraes Villela and Raul Fonseca Neto
+Anticipatory Troubleshooting	Netantel Hasidi, Roni Stern, Meir Kalech and Shulamit Reches
+Eliminating Disjunctions in Answer Set Programming by Restricted Unfolding	Jianmin Ji, Hai Wan, Kewen Wang, Zhe Wang, Chuhan Zhang and Jiangtao Xu
+ADL™: A Topic Model for Recognition of Activities of Daily Living in a Smart Home	Yu Chen, Tom Diethe and Peter Flach
+Mission Oriented Robust Multi-Team Formation and its Application to Robot Rescue Simulation	Tony Ribeiro, Damien Bouchabou, Tenda Okimoto and Katsumi Inoue
+Hidden Parameter Markov Decision Processes: A Semiparametric Regression Approach for Discovering Latent Task Parametrizations	Finale Doshi-Velez and George Konidaris
+Connecting Qualitative Spatial and Temporal Representations by Propositional Closure	Diedrich Wolter and Jae Hee Lee
+Unsupervised Alignment of Actions in Video with Text Descriptions	Young Chol Song, Iftekhar Naim, Abdullah Al Mamun, Kaustubh Kulkarni, Parag Singla, Jiebo Luo, Daniel Gildea and Henry Kautz
+Sherlock: Sparse Hierarchical Embeddings for Visually-aware One-class Collaborative Filtering	Ruining He, Chunbin Lin, Jianguo Wang and Julian McAuley
+Weakly-supervised Deep Learning for Customer Review Sentiment Classification	Ziyu Guan, Long Chen, Wei Zhao, Yi Zheng, Shulong Tan and Deng Cai
+Exploiting Partial Assignments for Efficient Evaluation of Answer Set Programs with External Source Access	Thomas Eiter, Tobias Kaminski, Christoph Redl and Antonius Weinzierl
+Knowledge Compilation Meets Communication Complexity	Simone Bova, Florent Capelli, Stefan Mengel and Friedrich Slivovsky
+Linear Arithmetic Satisfiability via Strategy Improvement	Azadeh Farzan and Zachary Kincaid
+Question Answering via Integer Programming over Semi-Structured Knowledge	Daniel Khashabi, Tushar Khot, Ashish Sabharwal, Peter Clark, Oren Etzioni and Dan Roth
+Static Symmetry Breaking with the Reflex Ordering	Jimmy Lee and Zichen Zhu
+Learning using Unselected Features (LUFe)	Joseph Taylor, Viktoriia Sharmanska, Kristian Kersting, David Weir and Novi Quadrianto
+Extending the Harper Identity to Iterated Belief Change	Richard Booth and Jake Chandler
+Cold-start recommendations for audio news stories using matrix factorization	Ehsan Mohammady Ardehaly, Aron Culotta, Vivek Sundararaman and Alwar Narayanan
+Efficient Bayesian Clustering for Reinforcement Learning	Travis Mandel, Yun-En Liu, Emma Brunskill and Zoran Popovic
+Strategic Voting with Incomplete Information	Ulle Endriss, Svetlana Obraztsova, Maria Polukarov and Jeffrey S. Rosenschein
+Object Recognition with Hidden Attributes	Qiang Ji and Xiaoyang Wang
+Decision Procedure for a Fragment of Linear Time Mu-Calculus	Yao Liu, Zhenhua Duan and Cong Tian
+POISketch: Semantic Place Labeling over User Activity Streams	Dingqi Yang, Bin Li and Philippe Cudré-Mauroux
+Tight Policy Regret Bounds for Improving and Decaying Bandits	Hoda Heidari, Michael Kearns and Aaron Roth
+Online Mechanism Design for Vehicle-to-Grid Car Parks	Enrico Gerding, Sebastian Stein, Sofia Ceppi and Valentin Robu
+Incomplete Causal Laws in the Situation Calculus using Free Fluents	Marcelo Arenas, Jorge Baier, Juan Navarro and Sebastian Sardina
+Online Symbolic Gradient-Based Optimization for Factored Action MDPs	Hao Cui and Roni Khardon
+Diversifying Convex Transductive Experimental Design for Active Learning	Lei Shi and Yi-Dong Shen
+Real-Time Web Scale Event Summarization Using Sequential Decision Making	Chris Kedzie, Fernando Diaz and Kathleen Mckeown
+Hierarchical Finite State Controllers for Generalized Planning	Javier Segovia, Sergio Jimenez and Anders Jonsson
+Robust Iterative Quantization for Efficient $\ell_{p}$-norm Similarity Search	Yuchen Guo, Guiguang Ding and Jungong Han
+Synthesizing Robotic Handwriting Motion by Learning from Human Demonstrations	Hang Yin, Patricia Alves-Olivera, Francesco S. Melo, Aude Billard and Ana Paiva
+Allocating Indivisible Items in Categorized Domains	Erika Mackin and Lirong Xia
+Improving Top-N Recommendation with Heterogeneous Losses	Feipeng Zhao and Yuhong Guo
+Max-Margin DeepWalk: Discriminative Learning of Network Representation	Cunchao Tu, Weicheng Zhang, Zhiyuan Liu and Maosong Sun
+Moving in a Crowd: Safe and Efficient Navigation among Heterogeneous Agents	Julio Godoy, Ioannis Karamouzas, Stephen Guy and Maria Gini
+Bridging LSTM Architecture with the Neural Dynamics of Reading	Peng Qian, Xipeng Qiu and Xuanjing Huang
+Automated Synthesis of Timed Failure Propagation Graphs	Benjamin Bittner, Marco Bozzano and Alessandro Cimatti
+Contextual Symmetries in Probabilistic Graphical Models	Ankit Anand, Aditya Grover, Mausam . and Parag Singla
+Learning by Actively Querying Strong Modal Features	Yang Yang and De-Chuan Zhan
+A Polynomial Time Optimal Algorithm for Robot-Human Search under Uncertainty	Shaofei Chen, Tim Baarslag, Dengji Zhao, Jing Chen and Lincheng Shen
+Truncating Shortest Path Search for Efficient Map-matching	Takashi Imamichi, Takayuki Osogami and Rudy Raymond
+The Role of Typicality in Object Classification: Improving The Generalization Capacity of Convolutional Neural Networks	Babak Saleh, Ahmed Elgammal and Jacob Feldman
+Conditional and Sequential Approval Voting on Combinatorial Domains	Nathanaël Barrot and Jérôme Lang
+Robust Natural Language Processing - Combining Reasoning, Cognitive Semantics and Construction Grammar for Spatial Language	Michael Spranger, Jakob Suchan and Mehul Bhatt
+Online Multi-object Tracking by Quadratic Pseudo-Boolean Optimization	Long Lan, Dacheng Tao, Chen Gong, Naiyang Guan and Zhigang Luo
+Learning Multi-Modal Grounded Linguistic Semantics by Playing I, Spy	Jesse Thomason, Jivko Sinapov, Max Svetlik, Peter Stone and Raymond Mooney
+Neural Segmentation Models Leveraging Segment Representations	Yijia Liu, Wanxiang Che and Jiang Guo
+How to Build Your Network? A Structural Analysis	Anastasia Moskvina and Jiamou Liu
+Detecting Rumors from Microblogs with Recurrent Neural Networks	Jing Ma, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J. Jansen, Kam-Fai Wong and Meeyoung Cha
+A Characterization of Voting Power for Discrete Weight Distributions	Yoram Bachrach, Yuval Filmus, Joel Oren and Yair Zick
