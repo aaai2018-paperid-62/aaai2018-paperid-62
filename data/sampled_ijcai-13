@@ -1,0 +1,100 @@
+Learning Community-based Preferences via Dirichlet Process Mixtures of Gaussian Processes	Ehsan Abbasnejad, Scott Sanner, Edwin V. Bonilla, Pascal Poupart
+Efficient Interdependent Value Combinatorial Auctions with Single-Minded Bidders	Valentin Robu, David Parkes, Takayuki Ito, Nick Jennings
+Mining for Analogous Tuples from an Entity-Relation Graph	Danushka Bollegala, Mitsuru Kushimoto, Yuichi Yoshida, Ken-ichi Kawarabayashi
+Advanced Conflict-Driven Disjunctive Answer Set Solving	Martin Gebser, Benjamin Kaufmann, Torsten Schaub
+Misleading Opinions Provided by Advisors: Dishonesty or Subjectivity	Hui Fang, Yang Bao, Jie Zhang
+Sparse Reconstruction for Weakly Supervised Semantic Segmentation	Ke Zhang, Wei Zhang, Yingbin Zheng, Xiangyang Xue
+Measuring Statistical Dependence via the Mutual Information Dimension	Mahito Sugiyama, Karsten Borgwardt
+Predicting the Size of Depth-First Branch and Bound Search Tree	Levi Lelis, Lars Otten, Rina Dechter
+On Robust Estimation of High Dimensional Generalized Linear Models	Eunho Yang, Ambuj Tewari, Pradeep Ravikumar
+Scaling Up Joint Activity Based Security Games	Eric Shieh, Manish Jain, Albert Xin Jiang, Milind Tambe
+Detecting and Tracking Disease Outbreaks in Real-time through Social Media	Yusheng Xie
+Optimal Airline Ticket Purchasing Using Automated User-Guided Feature Selection	William Groves, Maria Gini
+Efficient Learning in Linearly Solvable MDP Models	Ang Li, Paul Schrater
+Answer Set Programming Modulo Theories and Reasoning about Continuous Changes	Joohyung Lee, Yunsong Meng
+Double-Wheel Graphs Are Graceful	Ronan Le Bras, Carla Gomes, Bart Selman
+Improved Bin Completion for Optimal Bin Packing and Number Partitioning	Ethan Schreiber, Richard Korf
+Rolling Dispersion for Robot Teams	Elizabeth Jensen, Maria Gini
+Coupled Attribute Analysis on Numerical Data	Can Wang, Zhong She, longbing cao
+Parametric Local Multimodal Hashing for Cross-view Similarity Search	Deming Zhai, Hong Chang, Yi Zhen, Xianming Liu, Wen Gao
+A Cutoff Technique for the Verification of Parameterised IS with Parameterised Environments	Panagiotis Kouvaros, Alessio Lomuscio
+Robust Unsupervised Feature Selection	Mingjie Qian, Chengxiang Zhai
+Defender (Mis)coordination in Security Games	Albert Xin Jiang, Ariel Procaccia, Yundi Qian, Nisarg Shah, Milind Tambe
+Outstanding student paper: A Hidden Markov Model-Based Cicada Detector for Crowdsourced Smartphone Biodiversity Monitoring	Davide Zilli, Oliver Parson, Geoff V Merrett, Alex Rogers
+A Lossy Counting Based Approach for Learning on Streams of Graphs on a Budget	Giovanni Da San Martino, Nicolò Navarin, Alessandro Sperduti
+Action-Model Acquisition from Noisy Plan Traces	Hankz Hankui Zhuo, Rao Kambhampati
+First Order-Rewritability of Atomic Queries in Horn Description Logics	Meghyn Bienvenu, Carsten Lutz, Frank Wolter
+Automatically Generating Problems and Solutions for Natural Deduction	Umair Ahmed, Sumit Gulwani, Amey Karkare
+One-Class Conditional Random Fields for Sequential Anomaly Detection	Yale Song, Zhen Wen, Ching-Yung Lin, Randall Davis
+Linear Temporal Logic and Linear Dynamic Logic on Finite Traces	Giuseppe De Giacomo, Moshe Vardi
+Partial-Tree Linearization for Text-to-Text Applications	Yue Zhang
+Adaptive error-correcting output codes	Guoqiang Zhong, Mohamed Cheriet
+Agent Failures in All-Pay Auctions	Yoad Lewenberg, Omer Lev, Yoram Bachrach, Jeffrey Rosenschein
+Cyclic Causal Models with Discrete Variables: Markov Chain Equilibrium Semantics and Sample Ordering	David Poole, Mark Crowley
+Integrating Syntactic and Semantic Analysis into the Open Information Extraction Paradigm	Andrea Moro, Roberto Navigli
+Nonconvex Relaxation Approaches to Robust Matrix Recovery	Shusen Wang, Dehua Liu, Zhihua Zhang
+Audience-Based Uncertainty in Abstract Argument Games	Davide Grossi, Wiebe van der Hoek
+Implicit learning of common sense for reasoning	Brendan Juba
+Deep Feature Learning using Target Priors with Applications in ECoG Signal Decoding for BCI	Zuoguan Wang, Siwei Lyu, Qiang Ji
+Active Learning for Level Set Estimation	Alkis Gotovos, Nathalie Casati, Gregory Hitz, Andreas Krause
+Tractable Upper Bounds on Lengths of Transition Sequences	Jussi Rintanen, Charles Gretton
+Euler Clustering	Jian-sheng Wu, Wei-Shi Zheng, Jian-huang Lai
+Exchanging OWL 2 QL Knowledge Bases	Marcelo Arenas, Elena Botoeva, Diego Calvanese, Vladislav Ryzhikov
+Isomorph-free branch and bound search for finite state controllers	Marek Grzes, Pascal Poupart, Jesse Hoey
+On Condensing a Sequence of Updates in Answer-Set Programming	Martin Slota, Joao Leite
+Parameter Learning for Latent Network Diffusion	Xiaojian Wu, Akshat Kumar, Daniel Sheldon, Shlomo Zilberstein
+Just-In-Time Compilation of Knowledge Bases	Laurent Simon, Gilles Audemard, Jean-Marie Lagniez
+Learning Canonical Correlations of Paired Tensor Sets via Tensor-to-Vector Projection	Haiping Lu
+Accurate Probability Calibration for Multiple Classifiers	wenliang Zhong, James Kwok
+Online Egocentric Models for Citation networks	Hao Wang, Wu-Jun Li
+Hartigan's K-means vs. Lloyd's K-means -- is it time for a change?	Noam Slonim, Ehud Aharoni, Koby Crammer
+Automated reasoning to infer all minimal keys	Pablo Cordero, Manuel Enciso, Angel Mora
+Tractable Constrained Optimization Problems on Ordered Domains	T. K. Satish Kumar, Liron Cohen, Sven Koening
+Multi Class Learning with Individual Sparsity	Ben Zion Vatashsky, Koby Crammer
+A Clause-level Hybrid Approach to Chinese Empty Element Recovery	Fang Kong, Guodong Zhou
+Behavioral Diagnosis of LTL Specifications at Operator Level	Ingo Pill, Thomas Quaritsch
+Tag-Weighted Topic Model for Mining Documents with Labels	Shuangyin Li
+Smart Hashing Update for Fast Response	Qiang Yang, Longkai Huang, Wei-Shi Zheng, Ling Yingbiao
+Multi-view Maximum Entropy Discrimination	Shiliang Sun, Guoqing Chao
+Employing Batch Reinforcement Learning to Control Gene Regulation Without Explicitly Constructing Gene Regulatory Networks	Utku Sirin, Faruk Polat, Reda Alhajj
+Histogram of Oriented Displacements (HOD): Describing Trajectories of Human Joints for Action Recognition	Mohammad Gowayyed, Marwan Torki, Mohamed Hussein, Motaz El-Saban
+An approach to abductive reasoning in equational logic	Mnacho Echenim, Nicolas Peltier, Sophie Tourret
+Improving Traffic Prediction with Tweet Semantics	Jingrui He
+A Novel Bayesian Similarity Measure for Recommender Systems	Guibing Guo, Jie Zhang, Neil Yorke-Smith
+Towards active event recognition	Dimitri Ognibene, Yiannis Demiris
+Verification of Inconsistency-Tolerant Knowledge and Action Bases	Diego Calvanese, Evgeny Kharlamov, Marco Montali, Ario Santoso, Dmitriy Zheleznyakov
+Synthesizing Union Tables from the Web	Xiao Ling, Alon Halevy, Fei Wu, Cong Yu
+Using Conditional Restricted Boltzmann Machine for Highly Competitive Negotiation taks	Siqi Chen, Haitham Bou Ammar, Karl Tuyls, Gerhard Weiss
+Causal Belief Decomposition for Planning with Sensing: Completeness and Practical Approximation	Blai Bonet, Hector Geffner
+Representation and Reasoning about General Solid Rectangles	XiaoYu Ge, Jochen Renz
+Game-Theoretic Problem Selection for Tests	Li Yuqian, Vincent Conitzer
+An Empirical Investigation of Ceteris Paribus Learnability	Loizos Michael, Elena Papageorgiou
+A Reputation Management Model for Resource Constrained Trustee Agents	Han Yu, Miao Chunyan, Bo An
+Multiple Link Sign Prediction in Online Signed Social Networks	Priyanka Agrawal, Vikas K. Garg, Ramasuri Narayanam
+Variable Elimination in Binary CSP via Forbidden Patterns	David A. Cohen, Martin Cooper, Guillaume Escamocher, Standa Zivny
+Risk Estimates for Bandit Problems	Jia Yuan Yu, Evdokia Nikolova
+Probabilistic Multi-label Classification with Sparse Feature Learning	Yuhong Guo
+Group Preference based Bayesian Personalized Ranking for One-Class Collaborative Filtering	Weike Pan, Li Chen
+Automating Quantified Conditional Logics in HOL	Christoph Benzmüller
+Decidability of Model Checking Non-Uniform Artifact-Centric Quantified Interpreted Systems	Francesco Belardinelli, Alessio Lomuscio
+Analysis and Optimization of Multi-dimensional Percentile Mechanisms	Xin Sui, Craig Boutilier, Tuomas Sandholm
+Target-Value Search Revisited	Carlos Linares López, Roni Stern, Ariel Felner
+A Brain-Computer Interface to a Plan-based Narrative	Stephen Gilroy, Julie Porteous, Fred Charles, Marc Cavazza, Gal Raz, Ilana Klovatch, Limor Ikar, Eyal Soreq, Udi Ben-Arie, Talma Hendler
+Bayesian Optimization in High Dimensions via Random Embeddings	Ziyu Wang, Masrour Zoghi, Frank Hutter, David Matheson, Nando de Freitas
+Improving Question Retrieval in Community Question Answering Using World Knowledge	Zhou Guangyou , Kang Liu, Jun Zhao
+An Efficient Vector-Based Representation for Coalitional Games	Long Tran-Thanh, Tri-Dung Nguyen, Talal Rahwan, Alex Rogers, Nick Jennings
+Interactive Value Iteration for Markov Decision Processes with Unknown Rewards	Paul Weng, Bruno Zanuttini
+StarVars -- Effective Reasoning about Relative Direction Information	Jae Hee Lee, Jochen Renz, Diedrich Wolter
+On Computing Minimal Correction Subsets	Joao Marques-Silva, Federico Heras, Mikolas Janota, Alessandro Previti, Anton Belov
+Search Strategies for Optimal Multi-Way Number Partitioning	Michael Moffitt
+Efficient Latent Variables Perceptron for Semantic Parsing	Junsheng Zhou, Juhong Xu, Weiguang Qu
+FQHT: the logic of stable models for logic programs with intensional functions	Luis Fariñas del Cerro, David Pearce, Agustin Valverde
+A global constrained optimization method for designing road networks with small diameters	Teng Ma, Yuexian Hou, Xiaozhao Zhao
+Bounded Epistemic Situation Calculus Theories	Giuseppe De Giacomo, Yves Lespérance, Fabio Patrizi
+Online Group Feature Selection	Jing Wang, Zhong-Qiu ZHAO, xuegang hu, peipei li
+The Route to Success - A Performance Comparison of Diagnosis Algorithms	Iulia Nica, Ingo Pill, Thomas Quaritsch, Franz Wotawa
+A Bayesian Factorised Covariance Model for Image Analysis	Li Jun
+Multi-Agent Subset Space Logic	Yi Wang, Thomas Ågotnes
+The Markov Assumption: Formalization and Impact	Alexander Bochman
+How to predict human strategic decisions using facial expressions	Noam Peled, Moshe Bitan, Joseph Keshet, Sarit Kraus
+Multi-Instance Multi-Label Learning with Weak Label	Shu-Jun Yang, Yuan Jiang, Zhi-Hua Zhou
