@@ -9,4 +9,8 @@ Note that for IJCAI-13, only the first 50 papers were used during the survey, wh
 
 ## Requirements
 - Python version: 3.5.3
-- See requirements.txt
+- See requirements.txt (with pip installed, run `pip install -r requirements.txt`)
+
+## License
+
+The content of this project is licensed under the [Creative Commons Attribution 4.0 International license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), and any source code used within is licensed under the [MIT license](https://opensource.org/licenses/MIT).
