@@ -1,0 +1,64 @@
+                R3
+affiliation       
+academia     False
+industry     False
+mixed        False
+Combined        0
+                  R3D
+affiliation          
+academia     0.266415
+industry     0.220000
+mixed        0.244000
+Combined   0.2615
+
+Variance
+                  R3D
+affiliation          
+academia     0.033754
+industry     0.030667
+mixed        0.038024
+Combined   0.0342
+
+
+                R2
+affiliation       
+academia     False
+industry     False
+mixed        False
+Combined        0
+                  R2D
+affiliation          
+academia     0.258857
+industry     0.194246
+mixed        0.230437
+Combined   0.2525
+
+Variance
+                  R2D
+affiliation          
+academia     0.025250
+industry     0.038348
+mixed        0.021720
+Combined   0.0251
+
+
+                R1
+affiliation       
+academia     False
+industry     False
+mixed        False
+Combined        0
+                  R1D
+affiliation          
+academia     0.243621
+industry     0.219461
+mixed        0.213863
+Combined   0.2383
+
+Variance
+                  R1D
+affiliation          
+academia     0.014524
+industry     0.015143
+mixed        0.010909
+Combined   0.0140
